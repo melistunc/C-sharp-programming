@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Methods\Methods\obj\Debug\Methods.pdb
