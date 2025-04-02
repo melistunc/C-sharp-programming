@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\bin\Debug\Class.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\bin\Debug\Class.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\bin\Debug\Class.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\obj\Debug\Class.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Class\Class\obj\Debug\Class.pdb
