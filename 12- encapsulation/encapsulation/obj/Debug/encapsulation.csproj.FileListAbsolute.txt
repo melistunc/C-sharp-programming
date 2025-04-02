@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
