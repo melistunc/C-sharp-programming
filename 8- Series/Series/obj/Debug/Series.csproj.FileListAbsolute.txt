@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\bin\Debug\Series.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\bin\Debug\Series.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\bin\Debug\Series.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\obj\Debug\Series.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Series\Series\obj\Debug\Series.pdb
