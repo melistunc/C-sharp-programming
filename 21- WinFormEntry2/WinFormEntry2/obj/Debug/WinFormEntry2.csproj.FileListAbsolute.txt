@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\bin\Debug\WinFormEntry2.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\bin\Debug\WinFormEntry2.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\bin\Debug\WinFormEntry2.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry2\WinFormEntry2\obj\Debug\WinFormEntry2.pdb

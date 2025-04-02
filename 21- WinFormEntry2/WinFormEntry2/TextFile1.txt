@@ -1,0 +1,1 @@
+﻿toolbox'tan getirdiğimiz properties'lere çift tıkladığımızda o propertie'nin kodlarına erişiriz.
