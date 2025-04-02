@@ -1,0 +1,16 @@
+﻿-Form, label, button gibi propertie'lerin özelliklerini renk, konum, isim gibi şeyleri değiştirmek için üzerlerşne gelip sağ tıklayıp properties'e basarız burada sağda çıkan bar ile burayı düzenleriz. 
+
+-Form1'in properties'ine gelip startposition'dan
+centerscreen yaparsak form'umuz ekranın tam ortasından açılır.
+
+-Properties bar'ı üzerinden name ile ismini değiştiririz fakat name gözle görünmeyen bir isim değişikliğidir, arkaplanda uygulamanın nasıl bulacağını şöyleyen şeydir ekranda gözükmez. button1 Properties gibi.
+
+-Text ile seçtiğimiz properties'in ismini değiştiririz. Ekranda görünen değişikliktir. butonum gibi.(form ismini de bu şekilde değiştiririz.) 
+
+-From properties üzerinden Icon ile formun iconunu değiştirebiliriz. 
+
+-Arkaplan rengi değiştirmek için BackColor kullanırız.
+
+-Forcolor ile yazının rengini değiştiririz.
+
+-Font ile yazının; yazı tipi, yazı tipi stili, boyut, üstü çizgili mi çizgisiz mi, türkçe mibaşka dil mi bunların hepsi seçilebilir.

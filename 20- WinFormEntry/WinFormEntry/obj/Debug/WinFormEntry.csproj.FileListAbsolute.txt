@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\bin\Debug\WinFormEntry.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\bin\Debug\WinFormEntry.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\bin\Debug\WinFormEntry.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinFormEntry\WinFormEntry\obj\Debug\WinFormEntry.Form1.resources
