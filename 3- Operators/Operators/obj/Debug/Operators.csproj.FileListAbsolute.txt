@@ -1,0 +1,7 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\Operators\Operators\obj\Debug\Operators.pdb
