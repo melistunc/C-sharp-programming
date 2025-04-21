@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\bin\Debug\winformTextBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\bin\Debug\winformTextBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\bin\Debug\winformTextBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\winformTextBox\winformTextBox\obj\Debug\winformTextBox.pdb
