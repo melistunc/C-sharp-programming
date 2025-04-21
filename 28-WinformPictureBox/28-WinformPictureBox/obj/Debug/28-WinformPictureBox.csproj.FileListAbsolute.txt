@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\bin\Debug\28-WinformPictureBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\bin\Debug\28-WinformPictureBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\bin\Debug\28-WinformPictureBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\28-WinformPictureBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\_28_WinformPictureBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\_28_WinformPictureBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\28-WinformPictureBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\28-WinformPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\28-WinformPictureBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\28-WinformPictureBox\28-WinformPictureBox\obj\Debug\28-WinformPictureBox.pdb
