@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\bin\Debug\29-WinformCheckBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\bin\Debug\29-WinformCheckBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\bin\Debug\29-WinformCheckBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\29-WinformCheckBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\_29_WinformCheckBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\_29_WinformCheckBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\29-WinformCheckBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\29-WinformCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\29-WinformCheckBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\29-WinformCheckBox\29-WinformCheckBox\obj\Debug\29-WinformCheckBox.pdb
