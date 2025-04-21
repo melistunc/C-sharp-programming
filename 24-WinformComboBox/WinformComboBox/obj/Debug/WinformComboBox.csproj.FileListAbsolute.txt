@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\bin\Debug\WinformComboBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\bin\Debug\WinformComboBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\bin\Debug\WinformComboBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformComboBox\WinformComboBox\obj\Debug\WinformComboBox.pdb
