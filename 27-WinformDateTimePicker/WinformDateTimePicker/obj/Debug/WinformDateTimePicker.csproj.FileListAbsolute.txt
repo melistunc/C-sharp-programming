@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\bin\Debug\WinformDateTimePicker.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\bin\Debug\WinformDateTimePicker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\bin\Debug\WinformDateTimePicker.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformDateTimePicker\WinformDateTimePicker\obj\Debug\WinformDateTimePicker.pdb
