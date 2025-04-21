@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\bin\Debug\LabelandButton.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\bin\Debug\LabelandButton.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\bin\Debug\LabelandButton.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\LabelandButton\LabelandButton\obj\Debug\LabelandButton.pdb
