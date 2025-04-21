@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\bin\Debug\31-WinformPanelandGroupBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\bin\Debug\31-WinformPanelandGroupBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\bin\Debug\31-WinformPanelandGroupBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\31-WinformPanelandGroupBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\_31_WinformPanelandGroupBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\_31_WinformPanelandGroupBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\31-WinformPanelandGroupBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\31-WinformPanelandGroupBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\31-WinformPanelandGroupBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\31-WinformPanelandGroupBox\31-WinformPanelandGroupBox\obj\Debug\31-WinformPanelandGroupBox.pdb

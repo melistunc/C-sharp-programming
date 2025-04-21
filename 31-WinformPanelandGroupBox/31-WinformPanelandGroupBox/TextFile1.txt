@@ -1,0 +1,2 @@
+﻿groupbox üzerinde yazı olur fakat panel'de olmaz
+groupbox dışında;etrafında çizgi olur fakat panel'de çizgi olmaz.

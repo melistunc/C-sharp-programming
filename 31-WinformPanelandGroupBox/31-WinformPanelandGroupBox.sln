@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-WinformPanelandGroupBox", "31-WinformPanelandGroupBox\31-WinformPanelandGroupBox.csproj", "{493D62C6-D415-49E9-ABDA-8ADA89A84F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493D62C6-D415-49E9-ABDA-8ADA89A84F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493D62C6-D415-49E9-ABDA-8ADA89A84F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493D62C6-D415-49E9-ABDA-8ADA89A84F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493D62C6-D415-49E9-ABDA-8ADA89A84F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95963BC9-E3E6-4325-A778-AE0DE03C1BC0}
+	EndGlobalSection
+EndGlobal
