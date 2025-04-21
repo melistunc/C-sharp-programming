@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\bin\Debug\WinformMaskedTextBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\bin\Debug\WinformMaskedTextBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\bin\Debug\WinformMaskedTextBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformMaskedTextBox\WinformMaskedTextBox\obj\Debug\WinformMaskedTextBox.pdb
