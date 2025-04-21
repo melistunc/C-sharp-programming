@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\bin\Debug\WinformListBox.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\bin\Debug\WinformListBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\bin\Debug\WinformListBox.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformListBox\WinformListBox\obj\Debug\WinformListBox.pdb
