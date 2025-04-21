@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\bin\Debug\30-WinformRadioButton.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\bin\Debug\30-WinformRadioButton.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\bin\Debug\30-WinformRadioButton.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\30-WinformRadioButton.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\_30_WinformRadioButton.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\_30_WinformRadioButton.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\30-WinformRadioButton.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\30-WinformRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\30-WinformRadioButton.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\30-WinformRadioButton\30-WinformRadioButton\obj\Debug\30-WinformRadioButton.pdb
