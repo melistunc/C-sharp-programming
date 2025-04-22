@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\bin\Debug\WinformProjectPizzaMaker.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\bin\Debug\WinformProjectPizzaMaker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\bin\Debug\WinformProjectPizzaMaker.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\WinformProjectPizzaMaker\WinformProjectPizzaMaker\obj\Debug\WinformProjectPizzaMaker.pdb
