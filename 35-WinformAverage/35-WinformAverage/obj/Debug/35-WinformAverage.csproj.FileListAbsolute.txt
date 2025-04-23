@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\bin\Debug\35-WinformAverage.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\bin\Debug\35-WinformAverage.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\bin\Debug\35-WinformAverage.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\35-WinformAverage.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\_35_WinformAverage.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\_35_WinformAverage.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\35-WinformAverage.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\35-WinformAverage.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\35-WinformAverage.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\35-WinformAverage\35-WinformAverage\obj\Debug\35-WinformAverage.pdb
