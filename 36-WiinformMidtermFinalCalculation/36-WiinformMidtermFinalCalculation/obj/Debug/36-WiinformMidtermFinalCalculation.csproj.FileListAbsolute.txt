@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\bin\Debug\36-WiinformMidtermFinalCalculation.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\bin\Debug\36-WiinformMidtermFinalCalculation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\bin\Debug\36-WiinformMidtermFinalCalculation.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\36-WiinformMidtermFinalCalculation.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\_36_WiinformMidtermFinalCalculation.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\_36_WiinformMidtermFinalCalculation.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\36-WiinformMidtermFinalCalculation.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\36-WiinformMidtermFinalCalculation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\36-WiinformMidtermFinalCalculation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\36-WiinformMidtermFinalCalculation\36-WiinformMidtermFinalCalculation\obj\Debug\36-WiinformMidtermFinalCalculation.pdb
