@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\bin\Debug\39-Winform.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\bin\Debug\39-Winform.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\bin\Debug\39-Winform.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\39-Winform.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\_39_Winform.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\_39_Winform.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\39-Winform.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\39-Winform.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\39-Winform.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\39-Winform\39-Winform\obj\Debug\39-Winform.pdb
