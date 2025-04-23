@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\bin\Debug\38-WinformInterestCalculation.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\bin\Debug\38-WinformInterestCalculation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\bin\Debug\38-WinformInterestCalculation.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\38-WinformInterestCalculation.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\_38_WinformInterestCalculation.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\_38_WinformInterestCalculation.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\38-WinformInterestCalculation.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\38-WinformInterestCalculation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\38-WinformInterestCalculation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\38-WinformInterestCalculation\38-WinformInterestCalculation\obj\Debug\38-WinformInterestCalculation.pdb
