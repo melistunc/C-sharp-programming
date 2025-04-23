@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\bin\Debug\41-WinformChangeBackgroundColor.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\bin\Debug\41-WinformChangeBackgroundColor.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\bin\Debug\41-WinformChangeBackgroundColor.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\41-WinformChangeBackgroundColor.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\_41_WinformChangeBackgroundColor.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\_41_WinformChangeBackgroundColor.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\41-WinformChangeBackgroundColor.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\41-WinformChangeBackgroundColor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\41-WinformChangeBackgroundColor.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\41-WinformChangeBackgroundColor\41-WinformChangeBackgroundColor\obj\Debug\41-WinformChangeBackgroundColor.pdb
