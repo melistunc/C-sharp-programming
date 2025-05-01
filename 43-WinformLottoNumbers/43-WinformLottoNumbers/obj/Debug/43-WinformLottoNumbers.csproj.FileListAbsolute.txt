@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\bin\Debug\43-WinformLottoNumbers.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\bin\Debug\43-WinformLottoNumbers.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\bin\Debug\43-WinformLottoNumbers.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\43-WinformLottoNumbers.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\_43_WinformLottoNumbers.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\_43_WinformLottoNumbers.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\43-WinformLottoNumbers.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\43-WinformLottoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\43-WinformLottoNumbers.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\43-WinformLottoNumbers\43-WinformLottoNumbers\obj\Debug\43-WinformLottoNumbers.pdb
