@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\bin\Debug\48-WinformFormExpansion.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\bin\Debug\48-WinformFormExpansion.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\bin\Debug\48-WinformFormExpansion.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\48-WinformFormExpansion.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\_48_WinformFormExpansion.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\_48_WinformFormExpansion.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\48-WinformFormExpansion.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\48-WinformFormExpansion.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\48-WinformFormExpansion.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\48-WinformFormExpansion\48-WinformFormExpansion\obj\Debug\48-WinformFormExpansion.pdb
