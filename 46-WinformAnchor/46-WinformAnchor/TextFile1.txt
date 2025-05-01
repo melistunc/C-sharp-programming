@@ -1,0 +1,3 @@
+﻿Anchor ile form'u büyütsek de küçültsek de kenarlara koyduğumuz tools'lar (button, label) her zaman altta görünebilirler.
+Button (veya herhangi bir tools) properties'ine gelip Anchor özelliğini (eğer sağ altta ise) bottom right yaparsak artık
+her zaman sağ alt köşede bu buton kalır.
