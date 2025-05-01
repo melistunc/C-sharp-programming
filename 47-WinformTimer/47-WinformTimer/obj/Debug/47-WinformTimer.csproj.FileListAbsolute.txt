@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\bin\Debug\47-WinformTimer.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\bin\Debug\47-WinformTimer.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\bin\Debug\47-WinformTimer.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\47-WinformTimer.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\_47_WinformTimer.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\_47_WinformTimer.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\47-WinformTimer.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\47-WinformTimer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\47-WinformTimer.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\47-WinformTimer\47-WinformTimer\obj\Debug\47-WinformTimer.pdb
