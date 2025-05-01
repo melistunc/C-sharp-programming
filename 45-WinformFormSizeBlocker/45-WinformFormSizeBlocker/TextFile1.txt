@@ -1,0 +1,7 @@
+﻿Form ekranının kenarlarının büyütülüp küçülmesini engellemek için  
+form'un properties'indeki AutoSizeMod özelliğini GrownAndShrink yaparız 
+böylece form kenarlardan büyüyüp küçülmez.
+
+Ayrıca MaximizeBox özelliğini False yaptığımız zaman tam 
+ekran yapma özellliğini de kaldırırız yani formumuz artık tam
+ekran olamaz.

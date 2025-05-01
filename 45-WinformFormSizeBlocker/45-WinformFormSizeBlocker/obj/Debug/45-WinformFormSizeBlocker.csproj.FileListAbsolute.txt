@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\bin\Debug\45-WinformFormSizeBlocker.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\bin\Debug\45-WinformFormSizeBlocker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\bin\Debug\45-WinformFormSizeBlocker.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\45-WinformFormSizeBlocker.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\_45_WinformFormSizeBlocker.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\_45_WinformFormSizeBlocker.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\45-WinformFormSizeBlocker.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\45-WinformFormSizeBlocker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\45-WinformFormSizeBlocker.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\45-WinformFormSizeBlocker\45-WinformFormSizeBlocker\obj\Debug\45-WinformFormSizeBlocker.pdb
