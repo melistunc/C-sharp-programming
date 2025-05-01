@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\bin\Debug\42-WinformRandom.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\bin\Debug\42-WinformRandom.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\bin\Debug\42-WinformRandom.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\42-WinformRandom.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\_42_WinformRandom.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\_42_WinformRandom.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\42-WinformRandom.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\42-WinformRandom.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\42-WinformRandom.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\42-WinformRandom\42-WinformRandom\obj\Debug\42-WinformRandom.pdb
