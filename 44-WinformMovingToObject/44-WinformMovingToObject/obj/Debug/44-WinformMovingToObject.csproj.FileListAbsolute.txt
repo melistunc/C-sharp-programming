@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\bin\Debug\44-WinformMovingToObject.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\bin\Debug\44-WinformMovingToObject.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\bin\Debug\44-WinformMovingToObject.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\44-WinformMovingToObject.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\_44_WinformMovingToObject.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\_44_WinformMovingToObject.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\44-WinformMovingToObject.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\44-WinformMovingToObject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\44-WinformMovingToObject.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\44-WinformMovingToObject\44-WinformMovingToObject\obj\Debug\44-WinformMovingToObject.pdb
