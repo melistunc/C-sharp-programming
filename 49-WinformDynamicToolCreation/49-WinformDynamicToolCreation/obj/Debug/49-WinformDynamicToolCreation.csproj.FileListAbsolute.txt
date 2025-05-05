@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\bin\Debug\49-WinformDynamicToolCreation.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\bin\Debug\49-WinformDynamicToolCreation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\bin\Debug\49-WinformDynamicToolCreation.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\49-WinformDynamicToolCreation.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\_49_WinformDynamicToolCreation.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\_49_WinformDynamicToolCreation.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\49-WinformDynamicToolCreation.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\49-WinformDynamicToolCreation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\49-WinformDynamicToolCreation.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\49-WinformDynamicToolCreation\49-WinformDynamicToolCreation\obj\Debug\49-WinformDynamicToolCreation.pdb
