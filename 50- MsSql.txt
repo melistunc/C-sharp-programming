@@ -1,0 +1,51 @@
+Veritabanı kullanmazsak uygulamayı kapatıp açtığımızda tüm verilerimiz silinir. Biz veritabanında verilerimizi (datalarımızı) düzenli ve kalıcı bir şekilde saklarız. Veritabanı data saklmaya yarıyor. Tbalolar oluşturrark düzenli şekilde saklarız.
+
+Fraklı farklı tablolarımız ana bir veritabanı içerisindedir. Pyalaştıklarım, beğendiklerim, yorumlarım, fotolarım hepsi ayrı tabloda tutulur. Bunların ayrı tabloda olması bağımzsız olavağı anlamına gelmez. 
+
+Tablolar data'ları düzenli şekilde saklmaya yarıyor.
+
+saklanabilecek veri türleri:
+int: sayısal
+bool: mantıksal
+string: metinsel 
+text: büyük stringler
+varchar: stringtir ama buna boyut verebiliyoruz. varchar(50) 50 karakterli veri.
+bit: 0-1 arasında değer verir yani ya 0 ya 1 verir, ikili seçimlerde kullanılabilir.
+float
+datetime
+
+sayılar ile işlem yapılacaksa toplama vs gibi int kullanılır ama üzerinde işlem yapılmayacaksa varchar olarak tanımlarız sayıları.
+
+
+SORGULAR
+1-select: veritabanındaki tabloları, dataları seçmemize yarar.
+
+select * from MüsterilerDb ---> müşteriler tablosundaki tüm data'ları seç. * --> her şeyi getir demektir.
+
+select Name, Surname from Musteriler --> müşteriler tablosunda name ve surname'lerin data'larını getir.
+
+
+2-where: istediğimiz spesifik veriyi getirir mesela Ayse'nin verilerini getir.  
+
+select * from Musteriler 
+where Name= 'Ayse' // ayse'nin verilerini getirir.
+where Phone= '544444' // numarası 544444 olanı getir.
+where Name = 'Ayse' and Surname = 'Yılmaz' // burada hem ismi Ayse hem de soyismi Yılmaz olan kişileri getir dedik. Birden fazla sorgu yazdırtabiliyoruz.
+where Name = 'Ayse' or Surname = 'Yılmaz' // ismi Ayse olan ya da soyismi Yılmaz olanları bana getir.
+
+3-insert into: komutu ile tabloya yeni veri ekleriz
+
+insert into Musteriler (Name, Surname, City, Phone, TC)// müşteriler tablosuna name, surname, city, phone, tc ekle. devamı -->
+values ('Ayse', 'Koc', 'Bursa', '4353225433', '34567890642') // name'e ayse ver, surname'e koç ver vs vs yeni data ekleriz sütunlara. üstteki sırayla aynı sırada yeni data yazarız. Id'leri değiştirmeyiz çünkü is'ler her veri eklendiğinde bir artar şekilde ayarladık yani otomatik artar.
+
+
+4-delete: tablolardaki datalarımızdan istediklerimizi silebiliriz. where kelimesini yazmayı unutursak tüm verilerimiz silinebilir. 
+
+delete from Musteriler where Name = 'Zeynep' // musterilerden adı Zeynep olanı sil.
+
+delete from Musteriler where Phone = '544444'  
+
+
+5- update: tablolardaki data'larımızı günceller. Gene where komutunu kullanmaya dikkat etmeliyiz.
+
+update Musteriler set Phone = '544444' where Name = 'Ayse' // müsterilerden ismi Ayse olanların telefon numarası 544444 olarak güncelle.
