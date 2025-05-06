@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\bin\Debug\51-CustomerApplication.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\bin\Debug\51-CustomerApplication.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\bin\Debug\51-CustomerApplication.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\51-CustomerApplication.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\_51_CustomerApplication.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\_51_CustomerApplication.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\51-CustomerApplication.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\51-CustomerApplication.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\51-CustomerApplication.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\51-CustomerApplication\51-CustomerApplication\obj\Debug\51-CustomerApplication.pdb
