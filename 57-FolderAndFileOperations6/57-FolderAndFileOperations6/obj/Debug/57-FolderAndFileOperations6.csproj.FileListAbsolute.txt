@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\bin\Debug\57-FolderAndFileOperations6.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\bin\Debug\57-FolderAndFileOperations6.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\bin\Debug\57-FolderAndFileOperations6.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\57-FolderAndFileOperations6.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\_57_FolderAndFileOperations6.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\_57_FolderAndFileOperations6.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\57-FolderAndFileOperations6.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\57-FolderAndFileOperations6.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\57-FolderAndFileOperations6.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\57-FolderAndFileOperations6\57-FolderAndFileOperations6\obj\Debug\57-FolderAndFileOperations6.pdb
