@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\bin\Debug\60-ErrorHandlingWithTryCatch1.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\bin\Debug\60-ErrorHandlingWithTryCatch1.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\bin\Debug\60-ErrorHandlingWithTryCatch1.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\60-ErrorHandlingWithTryCatch1.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\_60_ErrorHandlingWithTryCatch1.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\_60_ErrorHandlingWithTryCatch1.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\60-ErrorHandlingWithTryCatch1.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\60-ErrorHandlingWithTryCatch1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\60-ErrorHandlingWithTryCatch1.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\60-ErrorHandlingWithTryCatch1\60-ErrorHandlingWithTryCatch1\obj\Debug\60-ErrorHandlingWithTryCatch1.pdb
