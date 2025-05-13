@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\bin\Debug\61-SpecialFormDesign.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\bin\Debug\61-SpecialFormDesign.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\bin\Debug\61-SpecialFormDesign.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\61-SpecialFormDesign.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\_61_SpecialFormDesign.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\_61_SpecialFormDesign.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\61-SpecialFormDesign.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\61-SpecialFormDesign.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\61-SpecialFormDesign.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\61-SpecialFormDesign\61-SpecialFormDesign\obj\Debug\61-SpecialFormDesign.pdb
