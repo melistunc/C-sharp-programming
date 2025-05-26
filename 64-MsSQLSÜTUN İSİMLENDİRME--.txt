@@ -1,0 +1,5 @@
+--SÜTUN İSİMLENDİRME--
+
+SELECT id as ID, musteri_id as [MUSTERI ID], siparis_tarihi as [SIPARIS TARIHI], toplam_tutar as [TOPLAM TUTAR] --> köşeli parantez içinde aralarında boşluk olarak kullanabiliriz ama parantezsiz ayrı yazamayız bitişik yazabiliriz. Burada id yerine ID yaz vs deriz. Ve burası sadece görünüşte değiştirir veritabanında isimleri hala aynıdır. 
+
+FROM Siparisler

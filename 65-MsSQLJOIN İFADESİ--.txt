@@ -1,0 +1,20 @@
+-- JOIN İFADESİ--
+
+JOIN, iki tabloyu birleştirmeye yarar. 
+
+SELECT * FROM Musteriler
+SELECT * FROM Siparisler --> bu şekilde yazarsak iki tablo ayrı ayrı gelir ama biz bunu tek sorguda toplamak istiyoruz.
+
+
+SELECT * FROM Musteriler m --> Musteriler tablosuna m dedik
+JOIN Siparisler s ON m.id = s.musteri_id; --> siparişler tablosuna s dedik ve bunları müşterilerin id'si ile siparişler içerisindeki msuter_id'ye birleştir dedik. Hepsi tek bir data tablo ile gelmiş olur.
+
+SELECT 
+   m.ad AS [Musteri Adi],
+   m.soyad AS [Musteri Soyad],
+   s.siparis_tarihi AS [Siparis Tarih],
+   s.toplam_tutar AS [Siparis Tutar] 
+--> müşteri; adı, soyadı, siparişlerin; tarihi, tutarı vs lerin ismini değiştirdik görünüş olarak ve bunlara göre tabloları getir dedik.
+FROM Musteriler m
+JOIN Siparisler s ON m.id = s.musteri_id;
+

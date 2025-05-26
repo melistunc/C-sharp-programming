@@ -1,0 +1,71 @@
+VERİTABANI VE TABLOLAR OLUŞTURMA
+
+--MAGAZA DATABASE OLUŞTURMA--
+CREATE DATABASE MagazaDB; --> kodu ile MagazaDB isimli bir database oluştururuz.
+
+USE MagazaDB --> diyerek magazadb üzerinde çalıştığımızı gösteririz.
+
+SELECT * FROM Siparisler --> siparişler tablosunu getirir.
+
+
+
+
+
+--MÜŞTERİLER TABLOSU OLUŞTURMA--
+CREATE TABLE Musteriler( --> Musteriler isimli tablo oluşturur.
+         id INT IDENTITY(1,1) PRİMARY KEY, --> id isimli, int türünde, birden başlayıp birer birer artan, primary key (birincil anahtar, benzersiz olmasını sağlıyor.) olan bir alan oluştur.
+         
+         ad VARCHAR(50),
+         soyad VARCHAR(50),
+	 email VARCHAR(100) UNIQUE, --> unique yani bir tane olacak bundan başka birinde olmayacak.
+          
+         telefon  VARCHAR(15),
+	 sehir VARCHAR(50),
+	 kayit_tarihi DATETIME DEFAULT GETDATE() --> Deafult olarak yani varsayılan olarak su anki zamanı getir dedik.
+)
+
+
+
+
+
+--SİPARİŞER TABLOSU OLUŞTURMA--
+CREATE TABLE Siparisler(
+         id INT IDENTITY(1,1) PRIMARY KEY,
+		 musteri_id INT NOT NULL, --> not null yani boş geçilemez alan.
+
+         siparis_tarihi DATETIME DEFAULT GETDATE(),
+	 toplam_tutar DECIMAL(10,2) NOT NULL, --> decimal onluk türünde virgülden sonra iki sıfır da olsun.
+ 
+         FOREIGN KEY (musteri_id) REFERENCES Musteriler(id) OND DELETE CASCADE  --> foreign key ilişkilendirmeye yarar. burada musteri_id ile müşteriler tablosundaki id'yi ilişkilendirdik. ve dedik ki müşteriler id'deki id silindiğinde bu müşteri_id de silinsin dedik.Bağlı müşteri silinirse siparişi de sil.
+)
+
+
+
+
+
+--MÜŞTERİLER TABLOSUNA EKLEYECEĞİMİZ DATALAR--
+INSERT INTO Musteriler (ad, soyad, email, telefon, sehir)
+VALUES 
+    ('Ahmet', 'Yılmaz', 'ahmet.yilmaz@example.com', '0533 111 11 11', 'İstanbul'),
+    ('Mehmet', 'Demir', 'mehmet.demir@example.com', '0544 222 22 22', 'Ankara'),
+    ('Ayşe', 'Kaya', 'ayse.kaya@example.com', '0555 333 33 33', 'İzmir'),
+    ('Fatma', 'Çelik', 'fatma.celik@example.com', '0566 444 44 44', 'Bursa'),
+    ('Hasan', 'Şahin', 'hasan.sahin@example.com', '0577 555 55 55', 'Antalya');
+
+
+
+
+
+
+-- SİPARİŞLER TABLOSUNA DATA EKLEME --
+
+INSERT INTO Siparisler (musteri_id, siparis_tarihi, toplam_tutar)
+VALUES 
+    (1, '2025-02-20', 1500.75),
+    (2, '2025-02-21', 800.50),
+    (3, '2025-02-22', 1200.00),
+    (4, '2025-02-23', 450.25),
+    (5, '2025-02-24', 300.99),
+    (1, '2025-02-24', 950.30),  -- Ahmet Yılmaz ikinci siparişi
+    (3, '2025-02-25', 1100.80); -- Ayşe Kaya ikinci siparişi
+
