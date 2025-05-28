@@ -1,0 +1,176 @@
+-- GROUP BY KULLANIMI--
+verileri belirli bir sütuna göre gruplamak için kullanılır.
+
+sehirde kaç sipariş olduğuna bakıyoruz.
+SELECT sehir as Sehir, COUNT (*) AS [Siparis Sayisi] --> sehir'i Sehir olarak al ve Siparis Sayisi olarak tüm count'ı sayıları al.
+
+FROM Musteriler m --> müşteriler tablosundan al.
+
+JOIN Siparisler s ON m.id = s.musteri_id --> müşterileri siparişlerle birleştir. müşreri_id'si ile siparişlerin müşteri id'sini birleştir deriz.
+
+GROUP BY sehir -->  sehir'e göre grupla tüm yazılanları
+
+
+
+
+
+--HAVING KULLANIMI--
+having sorgusu, group by ile oluiturduğumuz sorgulara ekleme yapmak için kullanılır. Koşul olarak sorgu eklenir.
+
+SELECT 
+    sehir,
+	COUNT (*) AS [Siparis Sayisi]
+FROM Musteriler m
+JOIN Siparisler s ON m.id = s.musteri_id
+GROUP BY sehir
+HAVING COUNT(0) > 2 --> count'u 2'den büyük olanları getir dedik.
+
+
+
+
+
+--LEFT JOIN KULLANIMI--
+
+SELECT 
+   m.ad as MusteriAd,
+   s.siparis_tarihi as SiparisTarihi
+   s.toplam_tutar as ToplamTutar
+FROM Musteriler m 
+JOIN Siparisler s ON m.id = s.musteri_id
+
+Burada JOIN m.id ile s.musteri_id birbirine eşitse kayıtı getirir yani birbirine eşit olan verileri getirir.
+
+
+
+
+SELECT 
+   m.ad as MusteriAd,
+   s.siparis_tarihi as SiparisTarihi
+   s.toplam_tutar as ToplamTutar
+FROM Musteriler m 
+LEFT JOIN Siparisler s ON m.id = s.musteri_id
+
+Burada JOIN yerine LEFT JOIN yaparsak kaç tane kayıt varsa MUsterilerde hepsini getirir. Left yani soldaki tablodaki tüm kayıtları getirir ve sağ tablodaki eşleşen kayıtları döndürür. Sağ tabloda dolu olmayan yerlere NULL yazar.
+
+
+
+
+
+--RIGHT JOIN KULLANIMI--
+sağdaki tüm kayıtları getirir eşleşen varsa soldakileri de getirir.
+
+SELECT 
+   m.ad as MusteriAd,
+   s.siparis_tarihi as SiparisTarihi
+   s.toplam_tutar as ToplamTutar
+FROM Musteriler m 
+RIGHT JOIN Siparisler s ON m.id = s.musteri_id
+
+
+
+
+--TOP KULLANIMI--
+
+SELECT TOP  3 FROM Musteriler
+
+ilk üç kaydı getirir. Top yani en üstte olan ilk 3'ünü getir.
+
+
+
+SELECT TOP  3 s.*,m.ad, m.soyad --> ilk satırdan siparişlerin hepsini getir, müşteri ad ve soyad getir
+  FROM Siparisler s --> siparişlere göre getir.
+  JOIN Musteriler m ON s.musteri_id = m.id --> siparis id ile müşteri id'sine göre birleştirip getir. Burada büyükten küçüğe doğru sıralayıp getirmez idrekt tablonun ilk üçünü getirir.
+
+
+
+
+
+
+--ORDER BY KULLANIMI--
+
+SELECT TOP  3 s.*,m.ad, m.soyad
+  FROM Siparisler s
+  JOIN Musteriler m ON s.musteri_id = m.id
+  ORDER BY s.toplam_tutar ASC 
+ASC küçükten büyüğe sıralar.
+
+
+SELECT TOP  3 s.*,m.ad, m.soyad
+  FROM Siparisler s
+  JOIN Musteriler m ON s.musteri_id = m.id
+  ORDER BY s.toplam_tutar DESC
+Büyükten küçüğe doğru sıralar.
+
+
+
+
+
+
+--DISTINCT KULLANIMI--
+
+SELECT DISTINCT sehir FROM Musteriler
+
+Aynı olan kayıtları getirmez yani İstanbul iki kere yazılmışsa bunu tek bir defa yazdırır.
+
+
+
+
+--SUM KULLANIMI--
+
+Toplama işlemi
+
+SELECT SUM(toplam_tutar) AS ToplamTutar from Siparisler --> toplam_tutar'ı topla
+
+
+
+
+
+--AVG KULLANIMI--
+
+Ortalama hesabı.
+
+SELECT AVG(toplam_tutar) AS OrtalamaTutar FROM Siparisler
+
+
+
+
+--MIN VE MAX KULLANIMI--
+
+SELECT MIN(toplam_tutar) AS EnDusuk, MAX(toplam_tutar) AS EnYuksek  FROM Siparisler
+
+Tablodaki en yüksek ve en düşük verileri alırız.
+
+
+
+
+
+--CEILING KULLANIMI--
+
+SELECT CEILING (toplam_tutar) AS YukariYuvarlandi FROM Siparisler
+
+Ceiling, virgülden sonrasını yuvarlar tam sayıya çevirir.
+
+
+
+
+--CONCAT KULLANIMI--
+
+Birden fazla metini birleştirir.
+
+SELECT CONCAT(m.ad,' ', m.soyad) AS TamAd FROM Musteriler m
+
+ad ve soyadın arasına boşluk bırakarak yazdırdı.
+
+
+
+
+--BETWEEN KULLANIMI--
+
+Aralıklar belirleyebiliyoruz.
+
+SELECT * 
+  FROM Siparisler
+  WHERE siparis_tarihi BETWEEN '2025-02-20' AND '2025-02-24'
+
+2025-02-20 ve 2025-02-24 tarihleri arasındaki tüm kayıtları getir. 2025-02-24 dahil değil.
+
